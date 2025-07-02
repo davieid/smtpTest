@@ -131,4 +131,3 @@ Contributions are welcome! Feel free to fork the repo, submit pull requests, or 
 
 **Bolaji**  
 Built in 🆖 with ❤️ and Go.
-```
