@@ -131,3 +131,15 @@ Contributions are welcome! Feel free to fork the repo, submit pull requests, or 
 
 **Bolaji**  
 Built in 🆖 with ❤️ and Go.
+
+---
+
+## ☕ Support This Project
+
+If you find SMTP Validator helpful and want to support its continued development and feature updates, consider donating. Your support helps keep the project alive and evolving. 🙌
+
+**💸 Donate with Bitcoin**
+   ```bitcoin
+   bc1q6qpm84aarlmr35aceyavq74pj40q7k7n9x9p97
+   ```
+Just copy the address above and send any amount you’d like. Every satoshi counts!
