@@ -8,7 +8,7 @@ import (
     "time"
 )
 
-// ValidateSMTPConfig connects to the SMTP server and authenticates using the provided credentials.
+// Validate SMTPConfig connects to the SMTP server and authenticates using the provided credentials.
 // Uses TLS for port 465 and STARTTLS for port 587.
 func ValidateSMTPConfig(config SMTPConfig) error {
     address := net.JoinHostPort(config.Host, fmt.Sprintf("%d", config.Port))
